@@ -7,4 +7,4 @@
     <li> Versatile omelette/scramble eggs </li>
 </ul>
 <p> I hope you enjoy it and learn how to cook your next lunch without having to order pizZa. </p>
-<p> <center> Herevin ツ </center> </p>
+<p> <center> Gabby ツ </center> </p>
